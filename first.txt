@@ -4,5 +4,4 @@
 ・git commit
 ・git rm
 ・git status
-
-変更点
+・git diff2
