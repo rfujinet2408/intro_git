@@ -1,4 +1,5 @@
-
-branch
-conflict
-
+Git チュートリアル
+git status
+git diff
+git commit --amend
+pull request
